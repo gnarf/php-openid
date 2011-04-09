@@ -1,2 +1,2 @@
 <?php
-	require_once("Auth/OpenId/PAPE.php");
+	require_once("Auth/OpenID/PAPE.php");
